@@ -6,8 +6,8 @@ ___
 * 这是一段[ASCII](https://m.baidu.com/sf_bk/item/ASCII/309296?fr=aladdin&ms=1&rid=11039219159295600557)编码。
 * 你可以通过一般的[在线编码转换](http://tool.oschina.net/encode?type=3)，由此得出这段编码转换为英文字符是chessboard,bullet,TBC.
 * 不懂英语的话，用翻译软件得知，chessboard的中文意思是棋盘、bullet的中文意思是子弹。则根据这两个单词线索得出最终答案为: 神的棋盘
-
-### 第三天  
+___
+## 第三天  
 * 问题数组: 8 3 22 15 ( ) 35 50 ( ) 64 99 … 
 * 这其实是一个等差数组。我们可以将这个数组分为两个部分。
 
