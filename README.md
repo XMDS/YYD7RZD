@@ -3,6 +3,7 @@
 ___
 ## 第二天 条件
 * 问题编码: \u0063\u0068\u0065\u0073\u0073\u0062\u006f\u0061\u0072\u0064\u002c\u0062\u0075\u006c\u006c\u0065\u0074\u002c\u0054\u0042\u0043\u002e
+![条件](https://github.com/XMDS/YYD7RZD/blob/master/%E6%9D%A1%E4%BB%B6.jpg)
 * 这是一段[ASCII](https://m.baidu.com/sf_bk/item/ASCII/309296?fr=aladdin&ms=1&rid=11039219159295600557)编码。
 * 你可以通过一般的[在线编码转换](http://tool.oschina.net/encode?type=3)，由此得出这段编码转换为英文字符是chessboard,bullet,TBC.
 * 不懂英语的话，用翻译软件得知，chessboard的中文意思是棋盘、bullet的中文意思是子弹。则根据这两个单词线索得出最终答案为: 神的棋盘
